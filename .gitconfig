@@ -1,0 +1,9 @@
+[user]
+	email = michelleyfzhou@gmail.com
+	name = Michelle Zhou
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
